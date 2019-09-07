@@ -1,0 +1,6 @@
+owner=512738128382132225
+prefix=A
+game=Aliven | Rplay
+stayinchannel=true
+songinstatus=false
+token=NjE5OTk5MTg4MzY0ODIwNDgz.XXQZXg.omx74V8jxetETOLMEiVgRamG4C0
